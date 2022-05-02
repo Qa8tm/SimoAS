@@ -1,9 +1,9 @@
 {
-  "name": "سورس الوالي | WALE SOURCE",
-  "description": "تنصيب سورس الوالي الاصلي معرف قناتنا @oio_t",
-  "logo": "https://telegra.ph/file/5fda4f37ae7c9f7ac449c.jpg",
+  "name": "سورس سيمو | Simo SOURCE",
+  "description": "تنصيب سورس الوالي الاصلي معرف قناتنا @ADWSL",
+  "logo": "https://telegra.ph/file/11e7eb89f718840fb5782.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
-  "repository": "https://github.com/WALEUSERBOT/WALEUSERHELP",
+  "repository": "https://github.com/Qa8tm/SimoAS",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -38,7 +38,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتـغيره! ",
-      "value": "WALE-Ar",
+      "value": "Simo-Ar",
       "required": false
     }
   },
