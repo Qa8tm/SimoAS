@@ -1,19 +1,21 @@
 
-# *اهلا بكم في سورس الوالي*
-# ___________________________
+# *اهلا بكم في سورس سيمو*
+# 
 
-**سورس الوالي هو سورس جديد ومحدث ويحتوي على الكثير من الاضافات والتحديثات الجديدة**
+**سورس سيمو هو سورس جديد ومحدث ويحتوي على الكثير من الاضافات والتحديثات الجديدة**
 
-[قناة السورس على نلكرام](https://t.me/ioi_t)
+# [Telegram](https://t.me/ADWSL)
 
 
 
-[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WALEUSERBOT/WALEUSERHELP)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Qa8tm/SimoAS)
 
 
 **its simple source based on catuserbot but in arabic language !**
 __________________________
-**[wale userbot](https://t.me/ioi_t)**
+**[wale userbot](https://t.me/ADWSL)**
+
 **[catuserbot](https://github.com/TgCatUB/catuserbot)**
 __________________________
+
 **and thanks to telethon arab source**
